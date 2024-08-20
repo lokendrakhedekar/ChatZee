@@ -1,0 +1,16 @@
+
+
+MONGO_URI = mongodb://localhost:27017
+
+JWT_SECRET= fskbhfk
+
+ADMIN_SECRET_KEY= sfkhfkhskf
+
+NODE_ENV = DEVELOPMENT
+
+CLIENT_URL = http://localhost:5173/login
+
+
+CLOUDINARY_CLOUD_NAME= cloudname
+CLOUDINARY_API_KEY = api key
+CLOUDINARY_API_SECRET =  api secret
